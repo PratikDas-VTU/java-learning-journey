@@ -67,7 +67,7 @@ public class Operators {
         System.out.println("Pre Decrement(--a): " + (--a));
         System.out.println("Post Decrement(a--): " + (a--));
         System.out.println("After Post Decrement a: " + a);
-
+        
         // Ternary Operator
         System.out.println("Ternary Operator");
         int max = (a > b) ? a : b;
