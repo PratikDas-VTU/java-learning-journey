@@ -58,4 +58,32 @@ future learning in **Data Structures, Algorithms, and Software Development**.
 ---
 
 ## 📂 Repository Structure
+java-learning-journey/
+├── Basics/
+│ ├── BitManipulation/
+│ ├── Loops/
+│ ├── Core Java programs
+├── Patterns/
+├── AdvancedPatterns/
+├── Questions/
+└── README.md
+
+
+---
+
+## 🎯 Purpose of This Repository
+- Strengthen Java fundamentals
+- Improve logical thinking through patterns and problems
+- Maintain a clean, well-organized learning record
+- Prepare a strong base for **DSA and Object-Oriented Programming**
+
+---
+
+## 🚀 Future Plans
+- Object-Oriented Programming (OOP) concepts
+- Practice-based problem solving
+- Integration with Data Structures & Algorithms
+
+> This repository will be continuously updated as I progress in my Java learning journey.
+
 
