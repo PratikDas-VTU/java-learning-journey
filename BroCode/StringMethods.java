@@ -27,7 +27,6 @@ public class StringMethods {
         System.out.println(name.equals("pratik das")); // to check whether two strings are equal (( SAME CHARACTERS ) (BUT CASE SENSITIVE)) ( Boolean Output )
 
         System.out.println(name.equalsIgnoreCase("pratik das")); // ignores CASE SENSITIVITY ( Boolean Output )
-
-
+          
     }
 }
