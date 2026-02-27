@@ -21,5 +21,6 @@ public class ifStatements {
         } else {
             System.out.println(" You are permitted for voting. ");
         }
+        sc.close();
     }
 }

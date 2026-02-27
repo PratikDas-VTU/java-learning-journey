@@ -19,5 +19,6 @@ public class Shopping_Card {
         System.out.println("Your total bill is "+bill);
 
         System.out.println("Thank you for shopping with Das' Stationary Store !!");
+        sc.close();
     }
 }

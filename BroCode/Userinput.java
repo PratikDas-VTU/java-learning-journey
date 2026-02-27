@@ -18,6 +18,7 @@ public class Userinput {
         double gpa = sc.nextDouble(); // for double / floating point number
 
         System.out.print("Hello "+name+"."+" Your age is "+age+"."+" Your current gpa is "+gpa+"."+" Your Favorite Color is "+ color + ".");
+        sc.close();
     }
 }
  

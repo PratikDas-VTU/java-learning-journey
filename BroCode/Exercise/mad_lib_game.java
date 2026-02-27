@@ -16,6 +16,6 @@ public class mad_lib_game {
         String noun2 = sc.nextLine();
 
         System.out.print("It was a " + adjective1 +"day, so I went to the zoo with my pet "+animal+". When we got there, a zookeeper "+verb+" a bunch of "+noun1+". It was so "+adjective2+"! We then went to the "+Place+" and bought a "+noun2+". ");
-
+        sc.close();
     }
 }
