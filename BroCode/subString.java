@@ -21,6 +21,6 @@ public class subString {
         } else {
             System.out.println("Please enter a valid email !!!!!");
         }
-
+        sc.close();
     }
 }
