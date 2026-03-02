@@ -5,25 +5,26 @@ public class searchInArrayEg2 {
 
         System.out.print("Enter the number of fruits: ");
         int size = sc.nextInt();
+        sc.nextLine();
 
         //---------------------------------
         String fruits[] = new String[size];
         //---------------------------------
 
-        System.out.println("Enter elements of array one by one:");
+        System.out.println("Enter fruits one by one:");
 
         for (int i = 0; i < size; i++) {
-            System.out.print("Enter element " + (i + 1) + ": ");
+            System.out.print("Enter fruit: " + (i + 1) + ": ");
             fruits[i] = sc.nextLine();
         }
 
-        System.out.print(" \n Enter the element to be searched:");
+        System.out.print(" \nEnter the fruit to be searched:");
         String search = sc.nextLine();
         boolean found = false;
         int index = 0;
 
         for (int i = 0; i < size; i++) {
-            if (fruits[i] == search) {
+            if (fruits[i].equals(search)) {
                 found = true;
                 index = i;
                 break;
