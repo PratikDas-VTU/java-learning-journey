@@ -18,4 +18,12 @@ public class Car {
     void stop(){
         System.out.println("Engine Stops !!");
     }
+
+    Car(String model,String color){
+        this.Model = model;
+        this.color = color;
+    }
+    void drive(){
+        System.out.println("You drive the " + this.color + " " + this.Model);
+    }
 }
