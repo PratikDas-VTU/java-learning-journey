@@ -11,13 +11,13 @@ class Student {
 
 public class OOPSeg1 {
    public static void main(String args[]) {
-       Student s1 = new Student();
+       StudentSuper s1 = new StudentSuper();
        s1.name = "Aman";
        s1.age = 24;
        s1.getInfo();
 
 
-       Student s2 = new Student();
+       StudentSuper s2 = new StudentSuper();
        s2.name = "Shradha";
        s2.age = 22;
        s2.getInfo();
