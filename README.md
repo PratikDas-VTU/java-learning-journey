@@ -1,54 +1,88 @@
-# Java Learning Journey ☕
+# ☕ Java Learning Journey
 
-This repository documents my **step-by-step journey of learning Java**, with a strong focus on
-**core fundamentals, logical thinking, and problem-solving**.
+This repository documents my **structured journey of learning Java**, focusing on building strong **programming fundamentals, logical thinking, and problem-solving skills**.
 
-The goal of this repository is to build a solid Java foundation that supports
-future learning in **Data Structures, Algorithms, and Software Development**.
+The goal of this repository is to develop a **solid Java foundation** that will support further learning in **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and software development**.
 
-## 📌 Topics Covered
+---
 
-### 🔹 Core Basics
-- Java syntax & structure
+# 👨‍💻 About Me
+
+Hi, I'm **Pratik Das**
+
+- B.Tech Computer Science Engineering (Cyber Security)  
+- Veltech University, Tamil Nadu  
+- Passionate about **Cybersecurity, Programming, and Problem Solving**
+
+This repository serves as my **practice archive and learning record** while strengthening my Java fundamentals.
+
+---
+
+# 📚 Topics Covered
+
+## 🔹 Core Java Fundamentals
+- Java syntax and program structure
 - Variables and data types
 - Operators
 - User input using `Scanner`
-- Conditional statements (`if-else`, `switch`)
+- Conditional statements (`if`, `if-else`, `switch`)
 
-### 🔹 Loops & Control Flow
+---
+
+## 🔹 Loops & Control Flow
 - `for` loop
 - `while` loop
 - `do-while` loop
+- Nested loops
 
-### 🔹 Functions & Methods
-- Method creation
+---
+
+## 🔹 Methods & Functions
+- Creating methods
 - Parameter passing
-- Basic functional decomposition
+- Code reusability through functions
 
-### 🔹 Arrays
-- 1D Arrays
-- 2D Arrays
-- Input and traversal techniques
+---
 
-### 🔹 Strings
+## 🔹 Arrays
+- One-dimensional arrays
+- Two-dimensional arrays
+- Array traversal
+- Input handling for arrays
+
+---
+
+## 🔹 Strings
 - String operations
+- Character access
 - String reversal
-- Character access and manipulation
+- Basic string manipulation
 
-### 🔹 Bit Manipulation
+---
+
+## 🔹 Bit Manipulation
 - Get Bit
 - Set Bit
 - Clear Bit
 - Update Bit
 
-### 🔹 Pattern Programming
-- Basic star patterns
-- Number patterns
-- Half & inverted pyramids
-- Floyd’s triangle
-- Binary patterns
+These concepts help understand **efficient low-level operations in programming**.
 
-### 🔹 Advanced Patterns
+---
+
+## 🔹 Pattern Programming
+
+Pattern programming is used to strengthen **logic building and nested loop understanding**.
+
+### Basic Patterns
+- Star patterns
+- Number patterns
+- Half pyramid
+- Inverted pyramid
+- Floyd’s Triangle
+- Binary pattern
+
+### Advanced Patterns
 - Butterfly pattern
 - Solid rhombus
 - Number pyramid
@@ -57,33 +91,4 @@ future learning in **Data Structures, Algorithms, and Software Development**.
 
 ---
 
-## 📂 Repository Structure
-java-learning-journey/
-├── Basics/
-│ ├── BitManipulation/
-│ ├── Loops/
-│ ├── Core Java programs
-├── Patterns/
-├── AdvancedPatterns/
-├── Questions/
-└── README.md
-
-
----
-
-## 🎯 Purpose of This Repository
-- Strengthen Java fundamentals
-- Improve logical thinking through patterns and problems
-- Maintain a clean, well-organized learning record
-- Prepare a strong base for **DSA and Object-Oriented Programming**
-
----
-
-## 🚀 Future Plans
-- Object-Oriented Programming (OOP) concepts
-- Practice-based problem solving
-- Integration with Data Structures & Algorithms
-
-> This repository will be continuously updated as I progress in my Java learning journey.
-
-
+# 📂 Repository Structure
