@@ -92,3 +92,46 @@ Pattern programming is used to strengthen **logic building and nested loop under
 ---
 
 # 📂 Repository Structure
+java-learning-journey/
+
+Basics/
+BitManipulation/
+Loops/
+Core Java Programs
+Patterns/
+AdvancedPatterns/
+Questions/
+README.md
+
+
+Each folder contains Java programs organized **topic-wise for easy navigation and revision**.
+
+---
+
+# 🎯 Purpose of This Repository
+
+- Strengthen **Java programming fundamentals**
+- Improve **problem-solving and logical thinking**
+- Maintain a **structured coding practice repository**
+- Prepare for **Object-Oriented Programming and Data Structures**
+
+---
+
+# 🚀 Future Additions
+
+This repository will continue to grow as I progress in Java.
+
+Upcoming topics include:
+
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Exception Handling
+- File Handling
+- Java Collections Framework
+- Java-based DSA practice
+
+---
+
+⭐ This repository represents my **continuous learning journey in Java programming**.
